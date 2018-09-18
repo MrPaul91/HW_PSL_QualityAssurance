@@ -33,6 +33,18 @@ $ mvn test
 $ mvn package
 ```
 
+##  Version.
+
+
+```bash
+ JUnit 4.12
+```
 
 Another way to run this app is by cloning the project as a JUnit Test in an Eclipse IDE.
+
+We got a coverage of 83,1 %, it can be done by executing the option Coverage As -> JUnit Test in Eclipse IDE.
+
+
+
+
 
